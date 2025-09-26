@@ -1,0 +1,91 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Avoid ignoring Asset meta files
+# (required for correct asset tracking)
+
+# ================= #
+# OS Generated Files
+# ================= #
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =============== #
+# IDE Files
+# =============== #
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# JetBrains Rider
+*.sln.*
+*.DotSettings
+*.DotSettings.user
+
+# =============== #
+# Unity Collab (if not using it)
+# =============== #
+
+.collab/
+
+# =============== #
+# Crash and Stack Reports
+# =============== #
+
+sysinfo.txt
+*.stacktrace
+
+# =============== #
+# Auto-generated
+# =============== #
+
+GeneratedLocalConfig*.json
+
+# =============== #
+# Builds
+# =============== #
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# =============== #
+# Other
+# =============== #
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssetsData/*/*.bin*
+/[Aa]ssets/StreamingAssets/aa/
+
+# If using git-lfs for large files (optional)
+# *.psd filter=lfs diff=lfs merge=lfs -text
